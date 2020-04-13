@@ -1,2 +1,2 @@
-# Titanic predixt Survived 
+# Titanic predict Survived 
 Titanic predict ;)
