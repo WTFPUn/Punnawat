@@ -1,2 +1,2 @@
-# Punnawat
+# Titanic predixt Survived 
 Titanic predict ;)
